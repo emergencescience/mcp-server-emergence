@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "emergence": {
+      "command": "uvx",
+      "args": ["mcp-server-emergence"],
+      "env": {
+        "EMERGENCE_API_KEY": "your-api-key-here",
+        "EMERGENCE_BASE_URL": "https://api.emergence.science"
+      }
+    }
+  }
+}
